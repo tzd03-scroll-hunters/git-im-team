@@ -31,4 +31,4 @@ Neue (Unter-) Ordner später hinzufügen ist kein Problem!
 - Danach: NÄCHSTEN Features branch erstellen git checkout -b /featues/naechstesFeature
 - Und dann wiederholt sich alles immer wieder :)
 
-- 
+
