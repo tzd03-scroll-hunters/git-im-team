@@ -39,7 +39,7 @@ Danach: Zu Repo > Tab "Settings" => ganz nach unten scrollen zu "Danger Zone" =>
 - Wenn es Merge Konflikte gibt: In unserem Branch fixen oder in Team-Meeting (wenn unklar, wie wir das lösen)
 - Wenn es keine Konflikte gibt / alle behoben sind: PULL REQUEST auf Github stellen (=> grüner Button "OPEN & COMPARE PullRequest")
 - Wenn die Meldung kommt "Able to Merge" => branch einmergen
-- Danach: Den main branch lokal aktualisieren: git checkout main  und danach git pull
+- Danach: Den main branch lokal aktualisieren: `git checkout main` und danach `git pull`
 - Danach: NÄCHSTEN Features branch erstellen git checkout -b /featues/naechstesFeature
 - Und dann wiederholt sich alles immer wieder :)
 
