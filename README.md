@@ -15,7 +15,7 @@ Ordner sollten später, wenn es geht, niemals mehr UMBENANNT, VERSCHOBEN oder GE
 Neue (Unter-) Ordner später hinzufügen ist kein Problem!
 
 
-## Das Repo zu GitHub bringen?
+## Das Repo zur GitHub Orga bringen?
 
 Einfachster Weg: Repo lokal erstellen und die Ordner-Struktur erstellen. Danach direkt aus VsCode zu GitHub hochladen. Es landet nun im eigenen Account
 
