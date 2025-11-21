@@ -14,6 +14,14 @@ Ordner sollten später, wenn es geht, niemals mehr UMBENANNT, VERSCHOBEN oder GE
 
 Neue (Unter-) Ordner später hinzufügen ist kein Problem!
 
+
+## Das Repo zu GitHub bringen?
+
+Einfachster Weg: Repo lokal erstellen und die Ordner-Struktur erstellen. Danach direkt aus VsCode zu GitHub hochladen. Es landet nun im eigenen Account
+
+Danach: Zu Repo > Tab "Settings" => ganz nach unten scrollen zu "Danger Zone" => Transfer => und dann die Orga angeben
+
+
 ## Git im Team Prozess (kurz)
 
 (wenn ihr "dev" als default Branch benutzt => ersetze in dieser Anleitung überall "main" durch "dev")
