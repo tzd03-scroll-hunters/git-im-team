@@ -1,5 +1,9 @@
 # Setup für ein (Final) Fullstack Project
 
+## GitHub Orga erstellen
+
+Auf Github oben rechts das + Symbol klicken => New organisation. Konstenlosen Plan wählen. Team Member inviten. Fertig!
+
 ## Ein Repo für Frontend und Backend oder lieber 2? 
 
 Lieber zwei getrennte => weniger Quellen für versehentliche Merge-Konflikte. Und etwas einfacher zu deployen
